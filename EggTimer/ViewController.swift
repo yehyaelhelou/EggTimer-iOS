@@ -3,6 +3,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    // comment test
+    
     @IBOutlet weak var progessBar: UIProgressView!
     let eggTimes  = ["Soft": 5 , "Medium":7 , "Hard": 12]
     var timer = Timer()
